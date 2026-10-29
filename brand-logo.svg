@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+<title id="title">A11y Lens mark</title>
+<rect width="128" height="128" rx="32" fill="#172637"/>
+<path d="M16 58c12-20 28-30 48-30s36 10 48 30c-12 20-28 30-48 30S28 78 16 58Z" fill="#8EBCFF"/>
+<circle cx="64" cy="58" r="17" fill="#172637"/>
+<circle cx="64" cy="58" r="7" fill="#FFCA78"/>
+<path d="m81 82 23 23" stroke="#9AE3C2" stroke-width="10" stroke-linecap="round"/>
+</svg>
